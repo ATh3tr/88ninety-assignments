@@ -1,0 +1,31 @@
+﻿using System.Runtime.InteropServices;
+using UniversityData.Context;
+using UniversityData.Models;
+
+namespace UniversityCore.Services;
+
+public class StudentService(UniversityDbContext context) : IStudentService
+{
+    public Task<Student> AddStudentAsync(Student student)
+    {
+        throw new NotImplementedException();
+    }
+
+    public Task<bool> DeleteStudentAsync(int id)
+    {
+        throw new NotImplementedException();
+    }
+
+    public async Task<List<Student>> GetAllStudentsAsync()
+        => await context.Students.ToListAsync();
+
+    public async Task<Student?> GetStudentByIdAsync(int id)
+    {
+        var result = await context.Students.FindAsync(id);
+    }
+
+    public Task<bool> UpdateStudentAsync(int id, Student student)
+    {
+        throw new NotImplementedException();
+    }
+}

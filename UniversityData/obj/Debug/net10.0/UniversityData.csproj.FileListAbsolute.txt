@@ -1,0 +1,14 @@
+C:\Users\user\Documents\StudentApi\UniversityData\bin\Debug\net10.0\UniversityData.deps.json
+C:\Users\user\Documents\StudentApi\UniversityData\bin\Debug\net10.0\UniversityData.runtimeconfig.json
+C:\Users\user\Documents\StudentApi\UniversityData\bin\Debug\net10.0\UniversityData.dll
+C:\Users\user\Documents\StudentApi\UniversityData\bin\Debug\net10.0\UniversityData.pdb
+C:\Users\user\Documents\StudentApi\UniversityData\obj\Debug\net10.0\UniversityData.csproj.AssemblyReference.cache
+C:\Users\user\Documents\StudentApi\UniversityData\obj\Debug\net10.0\UniversityData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\StudentApi\UniversityData\obj\Debug\net10.0\UniversityData.AssemblyInfoInputs.cache
+C:\Users\user\Documents\StudentApi\UniversityData\obj\Debug\net10.0\UniversityData.AssemblyInfo.cs
+C:\Users\user\Documents\StudentApi\UniversityData\obj\Debug\net10.0\UniversityData.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\StudentApi\UniversityData\obj\Debug\net10.0\UniversityData.dll
+C:\Users\user\Documents\StudentApi\UniversityData\obj\Debug\net10.0\refint\UniversityData.dll
+C:\Users\user\Documents\StudentApi\UniversityData\obj\Debug\net10.0\UniversityData.pdb
+C:\Users\user\Documents\StudentApi\UniversityData\obj\Debug\net10.0\UniversityData.genruntimeconfig.cache
+C:\Users\user\Documents\StudentApi\UniversityData\obj\Debug\net10.0\ref\UniversityData.dll

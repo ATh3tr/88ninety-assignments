@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\StudentApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1410C159-B076-F94C-6D43-F9D7325A10A7}|StudentApi\\UniversityApi.csproj|c:\\users\\user\\documents\\studentapi\\studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1410C159-B076-F94C-6D43-F9D7325A10A7}|StudentApi\\UniversityApi.csproj|solutionrelative:studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1410C159-B076-F94C-6D43-F9D7325A10A7}|StudentApi\\UniversityApi.csproj|c:\\users\\user\\documents\\studentapi\\studentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1410C159-B076-F94C-6D43-F9D7325A10A7}|StudentApi\\UniversityApi.csproj|solutionrelative:studentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1410C159-B076-F94C-6D43-F9D7325A10A7}|StudentApi\\UniversityApi.csproj|c:\\users\\user\\documents\\studentapi\\studentapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1410C159-B076-F94C-6D43-F9D7325A10A7}|StudentApi\\UniversityApi.csproj|solutionrelative:studentapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182948EE-A1C6-19B4-54F9-B6B2C1F1AF44}|StudentCore\\UniversityCore.csproj|c:\\users\\user\\documents\\studentapi\\studentcore\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182948EE-A1C6-19B4-54F9-B6B2C1F1AF44}|StudentCore\\UniversityCore.csproj|solutionrelative:studentcore\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182948EE-A1C6-19B4-54F9-B6B2C1F1AF44}|StudentCore\\UniversityCore.csproj|c:\\users\\user\\documents\\studentapi\\studentcore\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182948EE-A1C6-19B4-54F9-B6B2C1F1AF44}|StudentCore\\UniversityCore.csproj|solutionrelative:studentcore\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182948EE-A1C6-19B4-54F9-B6B2C1F1AF44}|StudentCore\\UniversityCore.csproj|c:\\users\\user\\documents\\studentapi\\studentcore\\forms\\updatestudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182948EE-A1C6-19B4-54F9-B6B2C1F1AF44}|StudentCore\\UniversityCore.csproj|solutionrelative:studentcore\\forms\\updatestudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182948EE-A1C6-19B4-54F9-B6B2C1F1AF44}|StudentCore\\UniversityCore.csproj|c:\\users\\user\\documents\\studentapi\\studentcore\\forms\\createupdatestudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182948EE-A1C6-19B4-54F9-B6B2C1F1AF44}|StudentCore\\UniversityCore.csproj|solutionrelative:studentcore\\forms\\createupdatestudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BC80C9-DF50-3C2C-E11E-15592179C986}|UniversityData\\UniversityData.csproj|c:\\users\\user\\documents\\studentapi\\universitydata\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BC80C9-DF50-3C2C-E11E-15592179C986}|UniversityData\\UniversityData.csproj|solutionrelative:universitydata\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BC80C9-DF50-3C2C-E11E-15592179C986}|UniversityData\\UniversityData.csproj|c:\\users\\user\\documents\\studentapi\\universitydata\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BC80C9-DF50-3C2C-E11E-15592179C986}|UniversityData\\UniversityData.csproj|solutionrelative:universitydata\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\StudentApi\\StudentApi\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\StudentApi\\StudentApi\\appsettings.json",
+              "RelativeToolTip": "StudentApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-14T12:16:22.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\StudentApi\\StudentApi\\Program.cs",
+              "RelativeDocumentMoniker": "StudentApi\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\StudentApi\\StudentApi\\Program.cs",
+              "RelativeToolTip": "StudentApi\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvxcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T12:15:50.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateStudentForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\StudentApi\\StudentCore\\Forms\\UpdateStudentForm.cs",
+              "RelativeDocumentMoniker": "StudentCore\\Forms\\UpdateStudentForm.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\StudentApi\\StudentCore\\Forms\\UpdateStudentForm.cs",
+              "RelativeToolTip": "StudentCore\\Forms\\UpdateStudentForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T12:07:35.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateUpdateStudentForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\StudentApi\\StudentCore\\Forms\\CreateUpdateStudentForm.cs",
+              "RelativeDocumentMoniker": "StudentCore\\Forms\\CreateUpdateStudentForm.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\StudentApi\\StudentCore\\Forms\\CreateUpdateStudentForm.cs",
+              "RelativeToolTip": "StudentCore\\Forms\\CreateUpdateStudentForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T12:06:04.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\StudentApi\\StudentApi\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentApi\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\StudentApi\\StudentApi\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentApi\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T11:40:03.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\StudentApi\\StudentCore\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudentCore\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\StudentApi\\StudentCore\\Services\\IStudentService.cs",
+              "RelativeToolTip": "StudentCore\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T11:50:13.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\StudentApi\\StudentCore\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentCore\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\StudentApi\\StudentCore\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentCore\\Services\\StudentService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAhwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T23:46:24.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\StudentApi\\UniversityData\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "UniversityData\\Repositories\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\StudentApi\\UniversityData\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "UniversityData\\Repositories\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T11:51:07.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\StudentApi\\UniversityData\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "UniversityData\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\StudentApi\\UniversityData\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "UniversityData\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwC8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T00:02:28.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

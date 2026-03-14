@@ -1,0 +1,9 @@
+﻿using Microsoft.EntityFrameworkCore;
+using UniversityData.Models;
+
+namespace UniversityData.Context;
+
+public class UniversityDbContext(DbContextOptions<UniversityDbContext> options) : DbContext(options)
+{
+    public DbSet<Student> Students { get; set; }
+}

@@ -1,0 +1,37 @@
+﻿using UniversityData.Context;
+using UniversityData.Models;
+using Microsoft.EntityFrameworkCore;
+
+namespace UniversityCore.Services;
+
+public class StudentService : IStudentService
+{
+    private readonly UniversityDbContext _context;
+    public StudentService(UniversityDbContext context)
+    {
+        _context = context;
+    }
+    public Task<Student> AddStudentAsync(Student student)
+    {
+        throw new NotImplementedException();
+    }
+
+    public Task<bool> DeleteStudentAsync(int id)
+    {
+        throw new NotImplementedException();
+    }
+
+    public async Task<List<Student>> GetAllStudentsAsync()
+        => await _context.Students.ToListAsync();
+
+    public async Task<Student?> GetStudentByIdAsync(int id)
+    {
+        var result = await _context.Students.FindAsync(id);
+        return result;
+    }
+
+    public Task<bool> UpdateStudentAsync(int id, Student student)
+    {
+        throw new NotImplementedException();
+    }
+}
